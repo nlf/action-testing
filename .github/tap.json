@@ -5,7 +5,9 @@
       "regexp": "^\\s*not ok (.+)$",
       "message": 1
     }, {
-      "regexp": "---"
+      "regexp": "^\\s*---"
+    }, {
+      "regexp": "^\\s*compare"
     }]
   }]
 }
