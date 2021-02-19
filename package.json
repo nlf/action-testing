@@ -1,0 +1,19 @@
+{
+  "name": "action-testing",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "tap"
+  },
+  "keywords": [],
+  "author": "Nathan LaFreniere <quitlahok@gmail.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "tap": "^14.11.0"
+  },
+  "tap": {
+    "files": "test/index.js",
+    "reporter": "tap"
+  }
+}
