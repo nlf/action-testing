@@ -4,6 +4,12 @@
     "pattern": [{
       "regexp": "^\\s*not ok (.+)$",
       "message": 1
+    }, {
+      "regexp": "^\\s*---$"
+    }, {
+      "regexp": "^\\s*compare .*$"
+    }, {
+      "regexp": "^\\s*at:$"
     }]
   }]
 }
