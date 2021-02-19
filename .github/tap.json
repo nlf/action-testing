@@ -4,14 +4,6 @@
     "pattern": [{
       "regexp": "^\\s*not ok (.+)$",
       "message": 1
-    }, {
-      "regexp": "^\\s*at:"
-    }, {
-      "regexp": "^\\s*line: (\\d+)",
-      "line": 1
-    }, {
-      "regexp": "^\\s*column: (\\d+)",
-      "column": 1
     }]
   }]
 }
