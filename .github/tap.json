@@ -8,6 +8,8 @@
       "regexp": "^\\s*---"
     }, {
       "regexp": "^\\s*compare"
+    }, {
+      "regexp": "^\\s*at:"
     }]
   }]
 }
