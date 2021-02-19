@@ -10,6 +10,9 @@
       "regexp": "^\\s*compare"
     }, {
       "regexp": "^\\s*at:"
+    }, {
+      "regexp": "^\\s*line: (\\d+)",
+      "line": 1
     }]
   }]
 }
