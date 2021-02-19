@@ -11,6 +11,6 @@ jobs:
       - name: install deps
         run: npm install
       - name: install tap matcher
-        run: echo "::add-matcher::tap.json"
+        run: echo "::add-matcher::.github/tap.json"
       - name: run tests
         run: npm test
