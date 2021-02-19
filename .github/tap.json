@@ -13,6 +13,12 @@
     }, {
       "regexp": "^\\s*line: (\\d+)",
       "line": 1
+    }, {
+      "regexp": "^\\s*column: (\\d+)",
+      "column": 1
+    }, {
+      "regexp": "^\\s*file: (.*)",
+      "file": 1
     }]
   }]
 }
