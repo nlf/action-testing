@@ -7,10 +7,10 @@
     }, {
       "regexp": "^\\s*at:"
     }, {
-      "regexp": "^\\s*line: (\d+)",
+      "regexp": "^\\s*line: (\\d+)",
       "line": 1
     }, {
-      "regexp": "^\\s*column: (\d+)",
+      "regexp": "^\\s*column: (\\d+)",
       "column": 1
     }]
   }]
